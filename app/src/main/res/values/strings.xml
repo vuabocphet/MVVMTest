@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+    <string name="login">Login</string>
+    <string name="remember_the_password">Remember the password</string>
+</resources>
